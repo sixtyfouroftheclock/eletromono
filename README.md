@@ -10,7 +10,8 @@ A mono font bit styled for pixel art projects.
 
 ## Special thanks
 
-This font would not be possible without these application:
+This font would not be possible without these applications:
 
 - [Pixel font converter!](https://yal.cc/r/20/pixelfont/)
 - [FontForge](https://fontforge.org/)
+- [Aseprite](https://www.aseprite.org/)
