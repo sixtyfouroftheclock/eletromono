@@ -1,6 +1,6 @@
-# eletromono font is what you deserve.
+# eletromono font...
 
-A mono font bit styled for pixel art projects.
+It's a mono font bit styled for pixel art projects
 
 ![image](https://github.com/oknauta/eletro-mono/assets/162106933/14bcb332-b0c6-4876-a055-11ced04fff1d)
 
@@ -12,7 +12,9 @@ A mono font bit styled for pixel art projects.
 
 ## Special thanks
 
-Thanks for Djalma to support me and this font would not be possible without these applications:
+Thanks for Djalma to support me.
+
+This font would not be possible without these applications:
 
 - [Pixel font converter!](https://yal.cc/r/20/pixelfont/)
 - [FontForge](https://fontforge.org/)
